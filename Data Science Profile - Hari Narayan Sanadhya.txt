@@ -1,0 +1,15 @@
+Computer programming - 3 (languages like cobol, rpg, clp mostly on mainframes AS400 systems, nothing except SQL will be used here. Thanks to SMU, already started learning some new languages)
+
+Math - 3 
+
+Statistics – 2 (before this course, worked on Statistics as a part of curriculum in School) 
+
+Machine learning – 1 (a long way to go) 
+
+Domain expertise (and give the domain(s)) - 4 Retail Logistics and inventory, 2 Leasing and finance, 2 Life insurance and warranty 
+
+Communication and presentation skills - 3 
+
+Data visualization – 1 (All the analysis and queries that had ran till now were from a structured data and the output was represented in either spreadsheets or on some display panels) 
+
+In addition to the essential programming skills, machine learning and data visualization, would also like to learn how to perform model evaluation in statistics For example in order to perform any analysis or research with the data, which is the best suited algorithm amongst the various available ones. Best ways and practices using which data anonymity and privacy of the individuals be kept without losing the variables of interest. The practical relevance of the study/research performed when dealing with small and large 
