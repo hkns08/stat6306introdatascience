@@ -5,7 +5,7 @@ Master Project Folder - stat6306datascience
 Other Folders - None
 Files (With absolute path) 
   hkns08/stat6306introdatascience/EDA-NYTdata.md  [markdown file forked from repository MonnieMcGee/stat6306introdatascience]
-  hkns08/stat6306introdatascience/README.md   [markdown file forked from repository MonnieMcGee/stat6306introdatascience]
+  hkns08/stat6306introdatascience/README.md   [markdown file]
   hkns08/stat6306introdatascience/Data Science Profile - Hari Narayan Sanadhya.txt  [Data science profile of Hari]
 
 ## PURPOSE
